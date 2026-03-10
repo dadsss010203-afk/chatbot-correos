@@ -91,7 +91,7 @@ La API quedará disponible en `http://localhost:5000`.
 | `/api/reset`       | POST   | Limpia el historial de la sesión            |
 
 ## 8. Desarrollo
-
+COMMIT CHANGES
 - Edita los archivos bajo `core/`, `scraper/` o `chatbots/` y reinicia
   `main.py` para ver los cambios.
 - Para refrescar los datos, vuelve a ejecutar el scraper.
